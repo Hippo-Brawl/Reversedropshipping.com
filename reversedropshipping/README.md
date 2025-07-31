@@ -62,6 +62,5 @@ If you download 5 TikTok videos, you'll get 5 separate files:
 
 - If downloads fail, check if the TikTok profile URL is correct and public
 - If video processing fails, ensure your input video is in a supported format
-- If video processing fails when you're using a supported format, make sure that you are using the correct ratio(9:16)
 - For overlay issues, make sure your overlay image is in the overlay folder
 - For permission errors, make sure the script has write access to the folders
